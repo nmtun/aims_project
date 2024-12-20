@@ -1,2 +1,1 @@
-# aims_project
-aims project using javafx and swing 
+### the Aims GUI application
